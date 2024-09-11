@@ -4,7 +4,7 @@
 }
 
 body{ 
-    background:fixed #DCDCDC url('imagens/deserto.jfif') ;
+    background:fixed #DCDCDC url('../imagens/deserto.jfif') ;
     font: 16px Arial, Helvetica, sans-serif;
 }
 
